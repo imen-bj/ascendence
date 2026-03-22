@@ -145,7 +145,7 @@ void render_fireballs();
 #define GOLLUX_MIN_X 2300
 #define GOLLUX_MAX_X 4400
 
-#define GOLLUX_MAX_HEALTH 300     // Points de vie maximum
+#define GOLLUX_MAX_HEALTH 300     // Points de vie maximum changed 
 #define GOLLUX_KNOCKBACK 5     // Force de recul quand le gollux est touché
 #define GOLLUX_HIT_COOLDOWN 40 // Cooldown en frames avant de pouvoir être touché à nouveau
 #define PLAYER_DAMAGE_COOLDOWN 60 // Cooldown en frames avant que le joueur puisse être touché à nouveau
