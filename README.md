@@ -1,6 +1,7 @@
 <div align="center">
   <h1>🎮 Ascendence</h1>
   <p><strong>A handcrafted 2D platforming adventure.</strong></p>
+  
   [![Made with SDL](https://img.shields.io/badge/Made%20with-SDL_1.2-blue.svg)](https://www.libsdl.org/)
   [![Language](https://img.shields.io/badge/Language-C-orange.svg)]()
 </div>
