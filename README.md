@@ -1,15 +1,12 @@
 <div align="center">
   <h1>🎮 Ascendence</h1>
-  <p><strong>A handcrafted 2D platforming adventure.</strong></p>
+  <p><strong>Welcome to the world of our custom-built 2D game! Developed in **C** using the **SDL library**, this project is more than just a game—it's a labor of love that combines classic platforming mechanics with intense combat and exploration.</strong></p>
   
   [![Made with SDL](https://img.shields.io/badge/Made%20with-SDL_1.2-blue.svg)](https://www.libsdl.org/)
   [![Language](https://img.shields.io/badge/Language-C-orange.svg)]()
 </div>
 
 ---
-
-Welcome to the world of our custom-built 2D game! Developed in **C** using the **SDL library**, this project is more than just a game—it's a labor of love that combines classic platforming mechanics with intense combat and exploration.
-
 
 ## 📖 Story & Lore
 
